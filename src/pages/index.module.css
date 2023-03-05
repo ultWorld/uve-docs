@@ -16,6 +16,18 @@
   }
 }
 
+.heroImg{
+  width: 10rem;
+  height: 10rem;
+}
+/** In mobile view, reduce the padding */
+@media screen and (max-width: 996px) {
+  .heroImg {
+    width: 13rem;
+    height: 13rem;
+  }
+}
+
 .buttons {
   display: flex;
   align-items: center;

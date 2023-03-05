@@ -2,46 +2,29 @@
 sidebar_position: 1
 ---
 
-# Tutorial Intro
+# Introduction
 
-Let's discover **Docusaurus in less than 5 minutes**.
+**UltimateWorld** is a website that offers a growing curation of metaverses, audio-visual content created by active communities around the globe. It also provides a platform for artists, creators, designers, researchers and other entities to build their own metaverses using an open source tool called BYOM (Build Your Own Metaverse)
 
-## Getting Started
+Are you looking for a new way to explore, create and connect in the digital world? If so, you have come to the right place, a website that offers a growing curation of metaverses, audio-visual content created by active communities around the globe.
 
-Get started by **creating a new site**.
+## What is a metaverse?
 
-Or **try Docusaurus immediately** with **[docusaurus.new](https://docusaurus.new)**.
+A metaverse is a virtual environment that can be accessed by multiple users through different devices. It can be immersive, interactive and social. A metaverse can also host various forms of digital content such as games, art, music, education and more.
 
-### What you'll need
+## Why do I build a metaverse?
 
-- [Node.js](https://nodejs.org/en/download/) version 16.14 or above:
-  - When installing Node.js, you are recommended to check all checkboxes related to dependencies.
+- Expressing your creativity and vision in a unique way
+- Sharing your metaverse with others and building a community around it
+- Showcasing your products in 3d may help clients understand it in a new light.
+- Generating income from selling or renting your metaverse or its assets
+- Learning new skills and technologies related to 3D design and development
+- Having fun and exploring new possibilities in a virtual world
 
-## Generate a new site
+## Why UltimateWorld?
 
-Generate a new Docusaurus site using the **classic template**.
+UltimateWorld.io is not just a platform for hosting metaverses. It is also a community of creators and explorers who share a passion for building alternate worlds for living entities. Whether you are an artist, a designer, a researcher, a brand or an organisation, you can find your niche and audience on UltimateWorld.io.
 
-The classic template will automatically be added to your project after you run the command:
+## Get Started
 
-```bash
-npm init docusaurus@latest my-website classic
-```
-
-You can type this command into Command Prompt, Powershell, Terminal, or any other integrated terminal of your code editor.
-
-The command also installs all necessary dependencies you need to run Docusaurus.
-
-## Start your site
-
-Run the development server:
-
-```bash
-cd my-website
-npm run start
-```
-
-The `cd` command changes the directory you're working with. In order to work with your newly created Docusaurus site, you'll need to navigate the terminal there.
-
-The `npm run start` command builds your website locally and serves it through a development server, ready for you to view at http://localhost:3000/.
-
-Open `docs/intro.md` (this page) and edit some lines: the site **reloads automatically** and displays your changes.
+To learn how to make your own metaverse click on the **next - getting started**. And see you on the other side :)

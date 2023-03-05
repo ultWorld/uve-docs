@@ -4,32 +4,29 @@ import styles from './styles.module.css';
 
 const FeatureList = [
   {
-    title: 'Easy to Use',
-    Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
+    title: 'Megaverse of immersive, connected spaces',
+    Svg: require('@site/static/img/home/drakecanvasback.svg').default,
     description: (
       <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
+        Imagine a world where you can travel to any place, time, or dimension you want. A world where you can create your own spaces and share them with others. A world where you can experience anything you can imagine. 
       </>
     ),
   },
   {
-    title: 'Focus on What Matters',
-    Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
+    title: 'Alternate Dimension Experiences (ADEs)',
+    Svg: require('@site/static/img/home/Spaniel-2-.svg').default,
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
+        What if you could live in a different reality for a while? What if you could experience something that is impossible or improbable in your own world? That’s what ADEs are for. 
       </>
     ),
   },
   {
-    title: 'Powered by React',
-    Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
+    title: 'BYOM (Bring Your Own Metaverse)',
+    Svg: require('@site/static/img/home/manandwomandancing.svg').default,
     description: (
       <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
+        Do you have an idea for a metaverse that you want to create? Do you want to use open source software and assets to make it happen? Then BYOM is the tool for you. It’s a platform that allows you to create your own metaverses using open source software and assets.
       </>
     ),
   },

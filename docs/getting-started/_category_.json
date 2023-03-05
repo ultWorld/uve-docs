@@ -4,5 +4,7 @@
   "link": {
     "type": "generated-index",
     "description": "10 minutes to build a basic Stone Hedge Metaverse."
-  }
+  },
+  "collapsible": true,
+  "collapsed": false
 }

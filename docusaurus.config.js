@@ -41,7 +41,8 @@ const config = {
           sidebarPath: require.resolve("./sidebars.js"),
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
-          editUrl: "https://github.com/ultWorld/uve-docs",
+          editUrl: ({versionDocsDirPath, docPath}) =>
+            `https://github.com/ultWorld/uve-docs/edit/main/docs/${docPath}`,
         },
         blog: {
           showReadingTime: true,
